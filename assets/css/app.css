@@ -1,3 +1,6 @@
+body{
+	position: relative;
+}
 .navbar-default{
 	padding-top: 20px;
 	padding-bottom: 20px;
@@ -23,9 +26,12 @@
 	border: 2px solid #303030; 
 	color: #eee;
 }
+#home{
+	margin-top: -92px;
+}
 .jumbotron{
 	text-align: center;
-	padding-top: 140px;
+	padding-top: 232px;
 	padding-bottom: 170px;
 }
 .jumbotron h1{
